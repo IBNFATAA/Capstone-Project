@@ -54,7 +54,7 @@ The two stacked bar charts used here make it easy to recognize the piza types do
 
 ### Hour_Category_Size
 <img width="330" alt="Hour_Category_Size" src="https://github.com/habeebsalaudeen/Capstone-Project/assets/97491265/b952443e-3d7c-43f8-8f72-1ad22640a643">
-line chart illustrate the peak hours that we have more pizza sold and in this case(12:00PM-1:00PM). Also doughnut chars is used for both total piza sold by category and the highest being(Classic), and total piza sold by size and the highest being(Large).
+line chart illustrate the peak hours that we have more pizza sold and in this case(12:00PM-1:00PM). Also doughnut charts is used for both total pizza sold by category and the highest being Classic, and total pizza sold by size and the highest being Large.
 
 ### Final Pizza Sales Report
 ![Pizza_Sales_Report](https://github.com/habeebsalaudeen/Capstone-Project/assets/97491265/fc24fa4b-fb93-4fd3-8c59-1a04ea2a771d)
