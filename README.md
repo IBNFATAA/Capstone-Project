@@ -35,7 +35,7 @@ There are 3 dimension tables and 1 fact table and also a **Dax measure table** c
 
 ## Visualization:
 
-The report comprises 1 page only with fascinating and beautiful underdable visuals:
+The report comprises 1 page only with fascinating and beautiful understandable visuals:
 1. Pizza Sales report 
 
 You can interact with the report {here} 
