@@ -20,7 +20,7 @@ decisions.
 - DAX (Data Analysis Expressions)
 - Aggregation Techniques
 - Filters and Slicers
-- Buttons
+- Comparative Analysis
 - Word wrapping
 
 ## Modelling
